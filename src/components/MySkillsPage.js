@@ -93,7 +93,7 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={40} /> FullStack Software Engineer
+    <Design width={40} height={40} /> Web Developer
 </Title>
 <Description>
 I love to create design which speaks, Keep it clean, minimal and simple.
@@ -122,7 +122,7 @@ I love to create design which speaks, Keep it clean, minimal and simple.
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Frontend Developer
+    <Develope width={40} height={40} /> Fullstack Software Engineer
 </Title>
 <Description>
 I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
@@ -130,7 +130,7 @@ I value business or brand for which i'm creating, thus i enjoy bringing new idea
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+Html, Js, React, Redux, Sass, Bootstrap, Mongo, Express, Three.js
 </p>
 </Description>
 <Description>
